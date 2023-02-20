@@ -9,4 +9,4 @@
 * Date: 2023-02-16
 * Video conference address: [meet.google.com/mjw-ruqv-rnr](meet.google.com/mjw-ruqv-rnr)
 * [Slides](https://docs.google.com/presentation/d/12rkZiPoOSz8jRsVpT2O5JKPowcByo1O5dL4sJQjYgKQ/edit?usp=share_link)
-* Minutes (TODO)
+* [Minutes](https://github.com/screen-share/meetings/blob/main/minutes/2023-02-16.md)
