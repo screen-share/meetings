@@ -1,1 +1,12 @@
-TBD
+# Meetings
+
+### March 2023
+* Date: TBD ([poll](https://doodle.com/meeting/participate/id/e99vMmJe))
+* Video conference address: [meet.google.com/mjw-ruqv-rnr](meet.google.com/mjw-ruqv-rnr)
+* [Slides](https://docs.google.com/presentation/d/1RIRPAg-M3pQYTFqL0rDGBIl8bQvLAzq122lWUF5JIy8/edit?usp=sharing) (WIP)
+
+### February 2023
+* Date: 2023-02-16
+* Video conference address: [meet.google.com/mjw-ruqv-rnr](meet.google.com/mjw-ruqv-rnr)
+* [Slides](https://docs.google.com/presentation/d/12rkZiPoOSz8jRsVpT2O5JKPowcByo1O5dL4sJQjYgKQ/edit?usp=share_link)
+* Minutes (TODO)
