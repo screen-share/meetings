@@ -1,7 +1,7 @@
 # Meetings
 
 ### March 2023
-* Date: TBD ([poll](https://doodle.com/meeting/participate/id/e99vMmJe))
+* Date: Date: 2023-03-21 ([poll](https://doodle.com/meeting/participate/id/e99vMmJe))
 * Video conference address: [meet.google.com/mjw-ruqv-rnr](meet.google.com/mjw-ruqv-rnr)
 * [Slides](https://docs.google.com/presentation/d/1RIRPAg-M3pQYTFqL0rDGBIl8bQvLAzq122lWUF5JIy8/edit?usp=sharing) (WIP)
 
