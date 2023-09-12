@@ -12,7 +12,7 @@
   * Date: 2023-09-14 (17:00–18:30 Central European Summer Time)
   * [TPAC meeting page](https://www.w3.org/events/meetings/6fd87c34-15f9-49d4-a18c-121456716457/)
   * Video conference address: Find the "join the meeting" link on the [TPAC meeting page](https://www.w3.org/events/meetings/6fd87c34-15f9-49d4-a18c-121456716457/).
-  * [Slides (September 2023, joint)](https://docs.google.com/presentation/d/1i0tZ1rRFh4Ibn3KxfEpHzEw6ixNKCgWjn1WgSEv01Dw/edit?usp=sharing)
+  * [Slides (September 2023, joint with WebRTC WG)](https://docs.google.com/presentation/d/1i0tZ1rRFh4Ibn3KxfEpHzEw6ixNKCgWjn1WgSEv01Dw/edit?usp=sharing)
   * Recording: TBD
   * Minutes: TBD
 
