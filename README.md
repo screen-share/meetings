@@ -6,14 +6,12 @@
   * [TPAC meeting page](https://www.w3.org/events/meetings/7e9ac176-e5f2-4f9b-b7c4-95e14c19e9d3/)
   * Video conference address: Find the "join the meeting" link on the [TPAC meeting page](https://www.w3.org/events/meetings/7e9ac176-e5f2-4f9b-b7c4-95e14c19e9d3/).
   * [Slides (September 2023, solo)](https://docs.google.com/presentation/d/10i4HFYZ4CylpFUuoJcigfiI5uS7pK3uaseQpcYhugAY/edit?usp=sharing)
-  * Recording: TBD
   * Minutes: TBD
 * Joint meeting with the WebRTC WG
   * Date: 2023-09-14 (17:00–18:30 Central European Summer Time)
   * [TPAC meeting page](https://www.w3.org/events/meetings/6fd87c34-15f9-49d4-a18c-121456716457/)
   * Video conference address: Find the "join the meeting" link on the [TPAC meeting page](https://www.w3.org/events/meetings/6fd87c34-15f9-49d4-a18c-121456716457/).
   * [Slides (September 2023, joint with WebRTC WG)](https://docs.google.com/presentation/d/1i0tZ1rRFh4Ibn3KxfEpHzEw6ixNKCgWjn1WgSEv01Dw/edit?usp=sharing)
-  * Recording: TBD
   * [Minutes (September 2023, joint with WebRTC WG)](https://www.w3.org/2023/09/14-webrtc-sccg-minutes.html)
 
 ### June 2023
