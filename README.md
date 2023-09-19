@@ -14,7 +14,7 @@
   * Video conference address: Find the "join the meeting" link on the [TPAC meeting page](https://www.w3.org/events/meetings/6fd87c34-15f9-49d4-a18c-121456716457/).
   * [Slides (September 2023, joint with WebRTC WG)](https://docs.google.com/presentation/d/1i0tZ1rRFh4Ibn3KxfEpHzEw6ixNKCgWjn1WgSEv01Dw/edit?usp=sharing)
   * Recording: TBD
-  * Minutes: TBD
+  * Minutes: [Minutes (September 2023, joint with WebRTC WG)](https://www.w3.org/2023/09/14-webrtc-sccg-minutes.html)
 
 ### June 2023
 * Date: 2023-06-26 ([poll](https://doodle.com/meeting/participate/id/el2Z067b))
