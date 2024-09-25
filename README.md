@@ -4,9 +4,8 @@
 * 2024-09-24, Joint meeting with the WebRTC WG
   * Date: 2024-09-24 (16:30–18:00 Pacific Daylight Time)
   * [TPAC meeting page](https://www.w3.org/events/meetings/f3553156-8aa7-41fa-9f85-1e8848b995f9/)
-  * Video conference address: Find the "join the meeting" link on the [TPAC meeting page](https://www.w3.org/events/meetings/f3553156-8aa7-41fa-9f85-1e8848b995f9/).
-  * Physical location: Lower Level (LL) - Catalina 1
   * [Slides (September 2024, joint)](https://docs.google.com/presentation/d/1seiO4a6YJIxSKed3aQpJAbf-_j2GJWYa00btZWmRCoY/edit?usp=sharing)
+  * [Recording (September 2024, joint)](https://w3c.zoom.us/rec/play/T-LmO-JA408oe-SLkiAVrdZ3JKd2ZDiV9XtUdVQKppItpqqvkBI8BrTp1SKtlcpGg3F2a0a4fukUHTvh.zRBvGwI5ycKdC-Ki?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fw3c.zoom.us%2Frec%2Fshare%2F7YF2uudUFn8aOBfzDmMJ_pS3EgOqAszzDSmMClQTbfllFLnH5LGIsGE5IX2bjA4.Nv40xrv1VG0AQLjG)
   * Minutes (September 2024, joint): Pending
 * 2024-09-27, Dedicated SCCG meeting
   * Date: 2024-09-27 (11:00–12:30 Pacific Daylight Time)
