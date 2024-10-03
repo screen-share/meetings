@@ -3,7 +3,7 @@
 Notes taken by Guido Urdaneta.
 
 ### Resources
-* [Recording](https://w3c.zoom.us/rec/play/T-LmO-JA408oe-SLkiAVrdZ3JKd2ZDiV9XtUdVQKppItpqqvkBI8BrTp1SKtlcpGg3F2a0a4fukUHTvh.zRBvGwI5ycKdC-Ki?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fw3c.zoom.us%2Frec%2Fshare%2F7YF2uudUFn8aOBfzDmMJ_pS3EgOqAszzDSmMClQTbfllFLnH5LGIsGE5IX2bjA4.Nv40xrv1VG0AQLjG)
+* [Recording](https://www.youtube.com/watch?v=hUzpceeTseQ)
 * [Slides](https://docs.google.com/presentation/d/1seiO4a6YJIxSKed3aQpJAbf-_j2GJWYa00btZWmRCoY/edit?usp=sharing)
 * [Minutes](https://github.com/screen-share/meetings/blob/main/minutes/2024-09-24%20(TPAC%202024%2C%20joint%20with%20WebRTC%20WG).md)
 
